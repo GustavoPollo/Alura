@@ -23,7 +23,7 @@ function soma(numero1, numero2) {
   return numero1 + numero2;
 }
 
-function multiplica(numero1 = 1, numero2 = 1) {
+function multiplica(numero1 = 2, numero2 = 3) {
   return numero1 * numero2;
 }
 
